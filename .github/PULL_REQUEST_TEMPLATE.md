@@ -27,7 +27,7 @@ Is this linked to an open issue, or another pull request? Link it here.
 Fixes #(issue)
 -->
 
-## Checklist:
+## Checklist
 
 <!--
 This checklist is mostly useful as a reminder of small things that can easily be forgotten – it is meant as a helpful tool rather than hoops to jump through.

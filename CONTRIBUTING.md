@@ -1,6 +1,6 @@
 # Thanks for Getting Involved! ❤️
 
-Here is a typical workflow for contributing... if you have *any* questions, please ask!
+Here is a typical workflow for contributing... if you have _any_ questions, please ask!
 
 1. Decide what you want to work on (if you want to fix an issue, please comment on the issue asking us to assign it to you).
 2. [Fork][fork] the repository you want to work on.
@@ -19,9 +19,6 @@ Here is a typical workflow for contributing... if you have *any* questions, plea
 10. We'll review the updates you made and merge the PR!
 
 [fork]: https://docs.github.com/en/github/getting-started-with-github/fork-a-repo
-
 [clone]: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
-
 [branch]: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-
 [pr]: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork
