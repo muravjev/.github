@@ -26,7 +26,7 @@
     "remark:fix": "pnpm remark --output --",
     "commitlint": "commitlint",
     "syncpack:fix": "syncpack format && syncpack fix-mismatches",
-    "fix": "pnpm lint:fix . && pnpm remark:fix . .github & pnpm format:fix . && pnpm syncpack:fix",
+    "fix": "pnpm lint:fix . && pnpm remark:fix . .github .changeset & pnpm format:fix . && pnpm syncpack:fix",
     "prepare": "husky install"
   },
   "devDependencies": {
